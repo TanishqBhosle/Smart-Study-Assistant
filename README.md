@@ -78,3 +78,7 @@ Notes:
 
 ## License
 MIT (see individual package licenses in dependencies).
+
+
+<img width="2452" height="1304" alt="image" src="https://github.com/user-attachments/assets/5d8e9ec6-7f77-4218-9fa5-c0e8ae8e2af5" />
+
