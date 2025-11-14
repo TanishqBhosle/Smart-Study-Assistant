@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  line-height: 1.6;
+  font-weight: 400;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: background 0.4s ease, color 0.3s ease;
+}
+
+/* Light Theme (default) */
+body {
+  background: radial-gradient(1200px 600px at 10% 0%, #eef2ff 0%, #ffffff 40%),
+              linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+  color: #0f172a;
+}
+
+body.dark {
+  background: radial-gradient(1200px 600px at 10% 0%, #0b1224 0%, #0f172a 50%),
+              linear-gradient(180deg, #0f172a 0%, #0b1224 100%);
+  color: #e2e8f0;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+button {
+  font-family: inherit;
+}
+
+a {
+  color: #646cff;
+  text-decoration: none;
+}
+
+body.dark a {
+  color: #818cf8;
+}
+
+a:hover {
+  text-decoration: underline;
+}

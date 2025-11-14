@@ -1,0 +1,11 @@
+{
+  "name": "frontend",
+  "private": true,
+  "scripts": {
+    "dev": "cd vite-project && npm run dev",
+    "build": "cd vite-project && npm run build",
+    "preview": "cd vite-project && npm run preview",
+    "lint": "cd vite-project && npm run lint"
+  }
+}
+
