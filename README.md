@@ -2,7 +2,7 @@
 
 A simple full‑stack app to generate study material (summary, quiz, tips) for any topic. The backend fetches Wikipedia context and uses an AI provider (Gemini/OpenAI) or a built‑in mock mode. The frontend is a React app (Vite).
 
-# Vercel Link - https://smart-study-assistant-gs8m.vercel.app/
+  Vercel Link - https://smart-study-assistant-gs8m.vercel.app/
   Render Link - https://smart-study-assistant-mgri.onrender.com
 
 ## Project Structure
